@@ -10,6 +10,9 @@ class SubAHomeUi extends StatefulWidget {
 class _SubAHomeUiState extends State<SubAHomeUi> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      backgroundColor: Colors.red,
+      
+    );
   }
 }

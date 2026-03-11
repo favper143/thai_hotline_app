@@ -1,6 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:thai_hhotline_app/views/splash_screen_ui.dart';
 
+
+void main() {
+  runApp(const ThaiHotlineApp());
+}
+
 class ThaiHotlineApp extends StatefulWidget {
   const ThaiHotlineApp({super.key});
 
